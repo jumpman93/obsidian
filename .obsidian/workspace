@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "4ca6ae1b2259e3d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f2c6ca8eb472dd5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "new obo.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "1f68230c23e2dae9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "System 1.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4ec7cb3e147c1d54",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "System 2.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "398d99eda463958c",
+    "type": "split",
+    "children": [
+      {
+        "id": "80449819b6e298ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "910cd18321923dda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aba9ec54aea3535f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "da69bb295a10c4bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#systems",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "right": {
+    "id": "14771337f50bf69a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5e7ba56527ce30b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eca3cd7a416ef2d5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bccceaed552067e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5f50a7c5261a059",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "new obo.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3242333202184635,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "fdbb73f54b613378",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab857696b1f20b93",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3eb46c1ce823c538",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0c9294923bb497ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f28eaed2b6e2794",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "new obo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "216f01ba228eb2c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35293ee2b6fdfd8e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9245d2af5e58ef46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e87a1ceb99115f54",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "active": "4f2c6ca8eb472dd5",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "zettlekasten/fleeting notes/202107051109.md",
+    "Untitled 1.md",
+    "System 1.md",
+    "System 2.md",
+    "the gorilla experiment.md",
+    "Thinking Fast and Slow.md",
+    "zettlekasten/fleeting notes/202107051105.md",
+    "zettlekasten/fleeting notes/202107051108.md",
+    "resources/templates/daily template.md"
+  ]
+}
