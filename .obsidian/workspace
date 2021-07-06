@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test for git.md",
+            "file": "Thinking Fast and Slow.md",
             "mode": "source"
           }
         }
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "test for git.md",
+                "file": "Thinking Fast and Slow.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test for git.md",
+                "file": "Thinking Fast and Slow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,15 +230,15 @@
   },
   "active": "4f2c6ca8eb472dd5",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Thinking Fast and Slow.md",
+    "the gorilla experiment.md",
+    "test for git.md",
+    "System 2.md",
     "new obo.md",
+    "System 1.md",
+    "Untitled.md",
     "zettlekasten/fleeting notes/202107051109.md",
     "Untitled 1.md",
-    "System 1.md",
-    "System 2.md",
-    "the gorilla experiment.md",
-    "Thinking Fast and Slow.md",
-    "zettlekasten/fleeting notes/202107051105.md",
-    "zettlekasten/fleeting notes/202107051108.md"
+    "zettlekasten/fleeting notes/202107051105.md"
   ]
 }
