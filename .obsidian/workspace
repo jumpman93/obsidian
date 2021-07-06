@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "new obo.md",
-            "mode": "preview"
+            "file": "test for git.md",
+            "mode": "source"
           }
         }
       },
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "new obo.md",
+                "file": "test for git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new obo.md",
+                "file": "test for git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +231,7 @@
   "active": "4f2c6ca8eb472dd5",
   "lastOpenFiles": [
     "Untitled.md",
+    "new obo.md",
     "zettlekasten/fleeting notes/202107051109.md",
     "Untitled 1.md",
     "System 1.md",
@@ -238,7 +239,6 @@
     "the gorilla experiment.md",
     "Thinking Fast and Slow.md",
     "zettlekasten/fleeting notes/202107051105.md",
-    "zettlekasten/fleeting notes/202107051108.md",
-    "resources/templates/daily template.md"
+    "zettlekasten/fleeting notes/202107051108.md"
   ]
 }
