@@ -4,35 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4f2c6ca8eb472dd5",
+        "id": "ffef2a51604a41ea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Thinking Fast and Slow.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "1f68230c23e2dae9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "System 1.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4ec7cb3e147c1d54",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "System 2.md",
-            "mode": "source"
+            "file": "zzz/Weight Lifting.md",
+            "mode": "preview"
           }
         }
       }
@@ -117,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Thinking Fast and Slow.md",
+                "file": "zzz/Weight Lifting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thinking Fast and Slow.md",
+                "file": "zzz/Weight Lifting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,17 +206,17 @@
     "direction": "horizontal",
     "width": 260.5
   },
-  "active": "4f2c6ca8eb472dd5",
+  "active": "ffef2a51604a41ea",
   "lastOpenFiles": [
-    "Thinking Fast and Slow.md",
-    "the gorilla experiment.md",
-    "test for git.md",
+    "zzz/Weight Lifting.md",
+    "MOC/030 Active MOC.md",
+    "MOC/005 Active MOC.md",
+    "MOC/000 Index.md",
+    "Ego Depletion.md",
     "System 2.md",
-    "new obo.md",
     "System 1.md",
-    "Untitled.md",
-    "zettlekasten/fleeting notes/202107051109.md",
-    "Untitled 1.md",
-    "zettlekasten/fleeting notes/202107051105.md"
+    "Weight Lifting.md",
+    "new obo.md",
+    "050 Acadmic MOC.md"
   ]
 }
