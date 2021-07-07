@@ -144,6 +144,14 @@
             "id": "3eb46c1ce823c538",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ffc8ee616fbb12f",
+            "type": "leaf",
+            "state": {
               "type": "calendar",
               "state": {}
             }
@@ -196,6 +204,20 @@
             "id": "e87a1ceb99115f54",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "87063ff8cc8d2ee1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b30975b7987bf8b",
+            "type": "leaf",
+            "state": {
               "type": "todo",
               "state": {}
             }
@@ -208,6 +230,7 @@
   },
   "active": "5d535f57563f1e22",
   "lastOpenFiles": [
+    "giit test.md",
     "Untitled.md",
     "sources/books/Thinking Fast and Slow.md",
     "zzz/System 2.md",
@@ -216,7 +239,6 @@
     "System 2.md",
     "System 1.md",
     "Priming Effect.md",
-    "permanent notes.md",
-    "literature note.md"
+    "permanent notes.md"
   ]
 }
