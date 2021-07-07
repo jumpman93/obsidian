@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "giit test.md",
+            "file": "laptop git test.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "giit test.md",
+                "file": "laptop git test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "giit test.md",
+                "file": "laptop git test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,8 +230,8 @@
   },
   "active": "5d535f57563f1e22",
   "lastOpenFiles": [
-    "giit test.md",
     "Untitled.md",
+    "giit test.md",
     "sources/books/Thinking Fast and Slow.md",
     "zzz/System 2.md",
     "sources/books/Moowalk With Einstein.md",
