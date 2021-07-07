@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "983d48fe36b14878",
+        "id": "5d535f57563f1e22",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "some gay shit.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -95,7 +92,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "some gay shit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +157,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "some gay shit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +201,7 @@
     "direction": "horizontal",
     "width": 260.5
   },
-  "active": "983d48fe36b14878",
+  "active": "5d535f57563f1e22",
   "lastOpenFiles": [
     "Untitled.md",
     "sources/books/Thinking Fast and Slow.md",
