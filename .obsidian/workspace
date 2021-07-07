@@ -7,8 +7,11 @@
         "id": "5d535f57563f1e22",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "giit test.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -92,6 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "giit test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "giit test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
