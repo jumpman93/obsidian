@@ -9,7 +9,7 @@ cssclass:
 
 ### Metadata
 
-- `Tags:` [[Economics MOC]][[behavioral economics]]
+- `Tags:` [[Economics MOC]][[Behavioral Economics MOC]]
 - `Type:` [[books]]
 - `Author:` [[Daniel Kahneman]]
 	- `Notable Authors:` 
@@ -46,7 +46,16 @@ cssclass:
 - The difference between [[Ego Depletion]] and [[Cognitive Load]] is that more effort can be extended while doing a task that involves [[Ego Depletion]] while a threshold cannot be breached when undergoing a tasks that evolves [[Cognitive Load]]. (pg. 43)
 - [[Ego Depletion]] is analogous to running as mental activity requiring self-control consumes [[glucose]] and a depleted level of ego can be replenished by consuming glucose just as running consumes glucose. (pg. 43)
 - the hypothesis that glucose can replenish [[Ego Depletion]] can be seen by a study conducted in the [[Proceedings of the National Academy of Science]] where Israel judges that were reviewing parole were more likely to grant parole after eating a meal, and more likely to fall back to their default position of (denying parole) after extended periods of not eating. The authors showed a spike of 65% approval of parole after finishing a meal and a slow decline of approval, approaching zero following the meal. The authors conclude that it is a result of fatigue and hunger
-- 
+
+***Chapter 4: The Associative Machine***
+- [[Associative Thinking]] the [[System 1]] process of thinking that links things in sets and categories all linked in unconscious thought. Initially hypothesized in 
+> An Inquiry Concerning Human Understanding 
+> Published 1748
+> David Hume
+
+- he stated three principles regarding thought: resemblance, contiguity in time and place and causality, further claiming that these links are built in the conscious mind. We now associate these connections in thought to be made in [[System 1]], not totally accessible by our conscious mind.
+- [[Priming Effect]] is pre-association with a thing before asking the tailored question. (eg; saying the word food and asking someone to fill in the word SO_P, it is more likely the individual will say Soup then Soap)
+
 ### Summary of key points:
 
 - 

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ffef2a51604a41ea",
+        "id": "983d48fe36b14878",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zzz/Weight Lifting.md",
+            "file": "sources/books/Thinking Fast and Slow.md",
             "mode": "preview"
           }
         }
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#systems",
+                "query": "cognitive illusions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 250.5
   },
   "right": {
     "id": "14771337f50bf69a",
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "zzz/Weight Lifting.md",
+                "file": "sources/books/Thinking Fast and Slow.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzz/Weight Lifting.md",
+                "file": "sources/books/Thinking Fast and Slow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,17 +206,17 @@
     "direction": "horizontal",
     "width": 260.5
   },
-  "active": "ffef2a51604a41ea",
+  "active": "983d48fe36b14878",
   "lastOpenFiles": [
-    "zzz/Weight Lifting.md",
-    "MOC/030 Active MOC.md",
-    "MOC/005 Active MOC.md",
-    "MOC/000 Index.md",
-    "Ego Depletion.md",
+    "sources/books/Thinking Fast and Slow.md",
+    "zzz/System 2.md",
+    "sources/books/Moowalk With Einstein.md",
+    "Associative Thinking.md",
     "System 2.md",
     "System 1.md",
-    "Weight Lifting.md",
-    "new obo.md",
-    "050 Acadmic MOC.md"
+    "Priming Effect.md",
+    "permanent notes.md",
+    "literature note.md",
+    "fleeting notes.md"
   ]
 }

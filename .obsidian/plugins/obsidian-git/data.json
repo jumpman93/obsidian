@@ -1,1 +1,1 @@
-{"commitMessage":"vault backup: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":360,"autoPullInterval":360,"autoPullOnBoot":true,"disablePush":false,"pullBeforePush":true,"disablePopups":false,"listChangedFilesInMessageBody":false,"showStatusBar":true}
+{"commitMessage":"vault backup: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":1,"autoPullInterval":1,"autoPullOnBoot":true,"disablePush":false,"pullBeforePush":true,"disablePopups":false,"listChangedFilesInMessageBody":true,"showStatusBar":true}

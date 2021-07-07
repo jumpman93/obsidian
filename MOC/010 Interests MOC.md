@@ -5,7 +5,10 @@ Anything that can be derived into categories
 --- 
 
 ## Economics & Crypto
-[[Economics MOC]] | [[Crypto MOC]] 
+[[Economics MOC]] | [[Crypto MOC]] | [[Behavioral Economics MOC]]
+
+## Psychology and the Mind
+[[Psychology Moc]]
 
 ## Organization 
 [[Productivity MOC]] | 

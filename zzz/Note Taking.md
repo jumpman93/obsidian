@@ -23,7 +23,7 @@ graph TB
 	A[source of information] -->   B[Fleeting Note];
 	B --> C[Literature Note];
 	C --> D[Permanent Notes];
-	D --> E[Relate relevant tags and organize in MOC]
+	D --> E[Relate relevant tags/relevant links and organize in MOC]
 	
 
 ```

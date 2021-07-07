@@ -6,7 +6,7 @@ aliases:
 cssclass: 
 ---
 
-- `Title:` [[202107051105]]
+- `Title:` [[Weight Lifting]]
 - `Type:` 
 - `Tags:` [[Health]] [[030 Active MOC]]
 - `Formation Date:` 2021-07-05 11:07
