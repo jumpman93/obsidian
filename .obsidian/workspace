@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sources/books/Thinking Fast and Slow.md",
-            "mode": "preview"
+            "file": "some gay shit.md",
+            "mode": "source"
           }
         }
       }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sources/books/Thinking Fast and Slow.md",
+                "file": "some gay shit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/books/Thinking Fast and Slow.md",
+                "file": "some gay shit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +208,7 @@
   },
   "active": "983d48fe36b14878",
   "lastOpenFiles": [
+    "Untitled.md",
     "sources/books/Thinking Fast and Slow.md",
     "zzz/System 2.md",
     "sources/books/Moowalk With Einstein.md",
@@ -216,7 +217,6 @@
     "System 1.md",
     "Priming Effect.md",
     "permanent notes.md",
-    "literature note.md",
-    "fleeting notes.md"
+    "literature note.md"
   ]
 }
