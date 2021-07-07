@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "66d40005689e0b50",
+        "id": "bc3646362def2b7c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Git/Github Moc.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -44,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cognitive illusions",
+                "query": "github",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -92,6 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Git/Github Moc.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git/Github Moc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,19 +205,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 156.5
   },
-  "active": "66d40005689e0b50",
+  "active": "bc3646362def2b7c",
   "lastOpenFiles": [
+    "Git/Github Moc.md",
+    "coding.md",
+    "MOC/010 Interests MOC.md",
+    "Python MOC.md",
+    "conflict-files-obsidian-git.md",
+    "MOC/001 Morals MOC.md",
+    "MOC/002 Concepts MOC.md",
+    "MOC/003 Thoughts MOC.md",
     "Untitled.md",
-    "sources/books/Thinking Fast and Slow.md",
-    "zzz/System 2.md",
-    "sources/books/Moowalk With Einstein.md",
-    "Associative Thinking.md",
-    "System 2.md",
-    "System 1.md",
-    "Priming Effect.md",
-    "permanent notes.md",
-    "literature note.md"
+    "sources/books/Thinking Fast and Slow.md"
   ]
 }

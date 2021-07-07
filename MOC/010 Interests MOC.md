@@ -16,4 +16,4 @@ Anything that can be derived into categories
 [[Japanese MOC]]
 
 ## Coding
-[[mermaid MOC]] | 
+[[mermaid MOC]] | [[Python MOC]] | [[Git/Github Moc]]
