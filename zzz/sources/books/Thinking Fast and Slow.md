@@ -55,6 +55,15 @@ cssclass:
 
 - he stated three principles regarding thought: resemblance, contiguity in time and place and causality, further claiming that these links are built in the conscious mind. We now associate these connections in thought to be made in [[System 1]], not totally accessible by our conscious mind.
 - [[Priming Effect]] is pre-association with a thing before asking the tailored question. (eg; saying the word food and asking someone to fill in the word SO_P, it is more likely the individual will say Soup then Soap)
+- [[ideomotor effect]] - when and idea or concept primes a action
+- the influence of priming can lead to unconscious change in how we think, voting done in a school drastically increases the likely hood of people to vote for policies increasing school funding. Priming subjects with money increases individualism, priming morality increases authorization thinking in participants.
+
+***Chapter 5: Cognitive Ease*** 
+- companies that invoke [[cognitive ease]] with easier to pronounce names do better when initially going public according to a servery done in Switzerland
+
+***Chapter 6: Norms, Surprise and Causes
+- we are predisposed to create intention and causation within things in our life. 
+- a study by [[Fritz Heider]], [[Mary-Ann Simmel]] created a film with a large triangle, small triangle and a circle moving around a shape that looks like a schematic view of a house with an open door. Viewers after watching the short film, had the impression of the large triangle bullying the small triangle and the circle being terrified. The small triangle and circle join forces and defeat the bully. The viewers assigned characters to the inanimate objects and found conflict within moving shapes.
 
 ### Summary of key points:
 

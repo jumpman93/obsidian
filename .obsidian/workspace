@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "bc3646362def2b7c",
+        "id": "d7e06f2742211cc5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Github Moc.md",
+            "file": "Limit Laws.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "5f00277722ae9842",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source"
           }
         }
@@ -47,8 +58,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "github",
-                "matchingCase": false,
+                "query": "limits and graphs",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -56,12 +67,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 214.5
   },
   "right": {
     "id": "14771337f50bf69a",
@@ -96,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Git/Github Moc.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,6 +158,14 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b48559a197217d46",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -162,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Github Moc.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,20 +189,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "216f01ba228eb2c0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "35293ee2b6fdfd8e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -207,17 +211,17 @@
     "direction": "horizontal",
     "width": 156.5
   },
-  "active": "bc3646362def2b7c",
+  "active": "5f00277722ae9842",
   "lastOpenFiles": [
-    "Git/Github Moc.md",
-    "coding.md",
-    "MOC/010 Interests MOC.md",
-    "Python MOC.md",
     "conflict-files-obsidian-git.md",
-    "MOC/001 Morals MOC.md",
-    "MOC/002 Concepts MOC.md",
-    "MOC/003 Thoughts MOC.md",
-    "Untitled.md",
-    "sources/books/Thinking Fast and Slow.md"
+    "Limit Laws.md",
+    "Associative Thinking.md",
+    "average rate of chance (AROC).md",
+    "coding.md",
+    "Executive Dysfunction.md",
+    "literature note.md",
+    "Mental Contrasting.md",
+    "permanent notes.md",
+    "Python MOC.md"
   ]
 }
