@@ -7,8 +7,11 @@
         "id": "c70b479497d58704",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "zzz/sources/books/Thinking Fast and Slow.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "data",
+                "query": "book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zzz/sources/books/Thinking Fast and Slow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +129,7 @@
   },
   "active": "c70b479497d58704",
   "lastOpenFiles": [
+    "zzz/sources/books/Thinking Fast and Slow.md",
     "conflict-files-obsidian-git.md"
   ]
 }
