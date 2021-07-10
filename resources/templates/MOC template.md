@@ -6,4 +6,6 @@ cssclass:
 ---
 `relevant links`
 
+ # [[{{title}}]]
+
 ### TLDR;

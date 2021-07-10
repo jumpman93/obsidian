@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "4ca6ae1b2259e3d9",
+    "id": "4dc8168d8e22fec2",
     "type": "split",
     "children": [
       {
-        "id": "eeecc52564205bee",
+        "id": "c70b479497d58704",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "398d99eda463958c",
+    "id": "6c5d8d66be5c0a5a",
     "type": "split",
     "children": [
       {
-        "id": "80449819b6e298ab",
+        "id": "bc75a845cbde2466",
         "type": "tabs",
         "children": [
           {
-            "id": "910cd18321923dda",
+            "id": "1a3ca5278cbb9196",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,20 +31,12 @@
             }
           },
           {
-            "id": "aba9ec54aea3535f",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "da69bb295a10c4bf",
+            "id": "d44c9af8c0ca167f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "cognitive illusions",
+                "query": "data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,115 +44,39 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "12866db848f72523",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 300
   },
   "right": {
-    "id": "14771337f50bf69a",
+    "id": "f58aac30da432306",
     "type": "split",
     "children": [
       {
-        "id": "a5e7ba56527ce30b",
+        "id": "130511e08c047843",
         "type": "tabs",
         "children": [
           {
-            "id": "eca3cd7a416ef2d5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8bccceaed552067e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "b5f50a7c5261a059",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3242333202184635,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "fdbb73f54b613378",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ab857696b1f20b93",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3eb46c1ce823c538",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1ffc8ee616fbb12f",
+            "id": "41515ff5e57a1bfc",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "0c9294923bb497ff",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7f28eaed2b6e2794",
+            "id": "869f3e95ba396b76",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -171,46 +87,29 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bcd40228ab0dc50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
         ]
       },
       {
-        "id": "216f01ba228eb2c0",
+        "id": "b1d91d0783a5b4a2",
         "type": "tabs",
         "children": [
           {
-            "id": "35293ee2b6fdfd8e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "9245d2af5e58ef46",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e87a1ceb99115f54",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "87063ff8cc8d2ee1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b30975b7987bf8b",
+            "id": "81fbc814b50d9e34",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -221,19 +120,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 300,
+    "collapsed": true
   },
-  "active": "eeecc52564205bee",
+  "active": "c70b479497d58704",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Untitled.md",
-    "giit test.md",
-    "sources/books/Thinking Fast and Slow.md",
-    "zzz/System 2.md",
-    "sources/books/Moowalk With Einstein.md",
-    "Associative Thinking.md",
-    "System 2.md",
-    "System 1.md",
-    "Priming Effect.md"
+    "conflict-files-obsidian-git.md"
   ]
 }

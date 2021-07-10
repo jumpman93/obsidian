@@ -13,7 +13,7 @@ cssclass:
 
 ---
 
-### Program
+### Exercises
 
 ***Stretch***
 - Push Ups | 50-100
@@ -34,4 +34,22 @@ cssclass:
 - ===Dumbbell Squat== | *3S15-20R* | 30lbs
 - ==Jumping Squat== | *3S15-20R*
 - ==Dumbbell Squat== | *3S12-15* | 30lbs
+
+### Routines
+***option 1***
+- Bicep Curl
+- Incline Dumbbell Press
+- Pushups
+- Crunch Situp Bench
+
+***option 2***
+- Lateral Raises
+- Dumbbell Row
+- Dumbbell Squat
+- Jumping Squat
+
+***option 3***
+- Russian twist
+- Crunch Situp Bench
+- Plank
 
