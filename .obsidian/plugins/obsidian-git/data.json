@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"commitMessage":"vault backup: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":0,"autoPullInterval":60,"autoPullOnBoot":true,"disablePush":false,"pullBeforePush":true,"disablePopups":false,"listChangedFilesInMessageBody":true,"showStatusBar":true}
-=======
-{"commitMessage":"vault backup: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":0,"autoPullInterval":0,"autoPullOnBoot":true,"disablePush":false,"pullBeforePush":true,"disablePopups":false,"listChangedFilesInMessageBody":true,"showStatusBar":true}
->>>>>>> 41048e319598479f293ebe6b43e02fd36780072e
+{"commitMessage":"vault backup: {{date}}","commitDateFormat":"YYYY-MM-DD HH:mm:ss","autoSaveInterval":2,"autoPullInterval":0,"autoPullOnBoot":false,"disablePush":false,"pullBeforePush":true,"disablePopups":false,"listChangedFilesInMessageBody":false,"showStatusBar":true}
