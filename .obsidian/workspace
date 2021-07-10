@@ -9,18 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Limit Laws.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "5f00277722ae9842",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "zzz/Github Moc.md",
             "mode": "source"
           }
         }
@@ -58,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "limits and graphs",
+                "query": "git",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -106,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "zzz/Github Moc.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "zzz/Github Moc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,17 +201,17 @@
     "direction": "horizontal",
     "width": 156.5
   },
-  "active": "5f00277722ae9842",
+  "active": "d7e06f2742211cc5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "zzz/Github Moc.md",
     "Limit Laws.md",
+    "conflict-files-obsidian-git.md",
     "Associative Thinking.md",
     "average rate of chance (AROC).md",
     "coding.md",
     "Executive Dysfunction.md",
     "literature note.md",
     "Mental Contrasting.md",
-    "permanent notes.md",
-    "Python MOC.md"
+    "permanent notes.md"
   ]
 }
