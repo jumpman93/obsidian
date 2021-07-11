@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zzz/sources/books/Thinking Fast and Slow.md",
+            "file": "MOC/032 Habits MOC.md",
             "mode": "source"
           }
         }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzz/sources/books/Thinking Fast and Slow.md",
+                "file": "MOC/032 Habits MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,8 @@
   },
   "active": "c70b479497d58704",
   "lastOpenFiles": [
+    "MOC/032 Habits MOC.md",
+    "MOC/000 Index.md",
     "zzz/sources/books/Thinking Fast and Slow.md",
     "The Halo Effect.md",
     "conflict-files-obsidian-git.md"
