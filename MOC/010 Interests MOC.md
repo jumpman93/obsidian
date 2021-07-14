@@ -18,5 +18,5 @@ Anything that can be derived into categories
 ## Coding
 [[mermaid MOC]] | [[Python MOC]] | [[Github Moc]]
 
-## Math
+## [[Math MOC]]
 [[Statistics MOC]] | [[Calculus 1]]

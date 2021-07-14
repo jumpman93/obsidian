@@ -1,1 +1,12 @@
-{"todoPageName":"","showChecked":true,"groupBy":"page","sortDirection":"old->new","ignoreFiles":"","includeFiles":"","lookAndFeel":"classic","_collapsedSections":[]}
+{
+  "todoPageName": "",
+  "showChecked": true,
+  "groupBy": "page",
+  "sortDirection": "old->new",
+  "ignoreFiles": "",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "zzz/2021-2022 Uni.md"
+  ]
+}

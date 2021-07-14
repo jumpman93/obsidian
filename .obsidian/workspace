@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d7e06f2742211cc5",
+        "id": "818dbd3d8ab249a9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zzz/Github Moc.md",
+            "file": "Learn 100 Kanji.md",
             "mode": "source"
           }
         }
@@ -47,8 +47,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
-                "matchingCase": true,
+                "query": "KANJI",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -56,11 +56,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 177.5
   },
   "right": {
     "id": "14771337f50bf69a",
@@ -95,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "zzz/Github Moc.md",
+                "file": "Learn 100 Kanji.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,7 +119,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3242333202184635,
+                  "scale": 0.18462328129603017,
                   "close": true
                 }
               }
@@ -169,25 +170,25 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzz/Github Moc.md",
+                "file": "Learn 100 Kanji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
         ]
       },
       {
-        "id": "9245d2af5e58ef46",
+        "id": "ee98e3eb6313dc66",
         "type": "tabs",
         "children": [
           {
-            "id": "e87a1ceb99115f54",
+            "id": "2e0479188e8b5fcc",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -198,19 +199,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 156.5
+    "width": 255.5
   },
-  "active": "d7e06f2742211cc5",
+  "active": "818dbd3d8ab249a9",
   "lastOpenFiles": [
-    "zzz/Github Moc.md",
-    "Limit Laws.md",
-    "conflict-files-obsidian-git.md",
-    "Associative Thinking.md",
-    "average rate of chance (AROC).md",
-    "coding.md",
-    "Executive Dysfunction.md",
-    "literature note.md",
-    "Mental Contrasting.md",
-    "permanent notes.md"
+    "Learn 100 Kanji.md",
+    "zzz/Kanji.md",
+    "zzz/Japanese MOC.md",
+    "020 Sources MOC.md",
+    "MOC/000 Index.md",
+    "Iterations Loop Idioms.md",
+    "finish Scientific Computing with Python.md",
+    "zzz/Python MOC.md",
+    "MOC/010 Interests MOC.md",
+    "MOC/004 Systems.md"
   ]
 }

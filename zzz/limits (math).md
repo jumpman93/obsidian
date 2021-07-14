@@ -4,7 +4,7 @@ aliases:
   - 
 cssclass: 
 ---
-`relevant links`[[Graphing and Limits]] | [[Math Moc]] | [[Calculus 1]]
+`relevant links`[[Graphing and Limits]] | [[Math MOC]] | [[Calculus 1]]
 
 # Limits
 
