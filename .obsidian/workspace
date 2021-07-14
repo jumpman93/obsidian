@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "818dbd3d8ab249a9",
+        "id": "35fda9379aba9399",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "zzz/Calculus 1.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "2d8685522cd3cd8a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Composite functions.md",
             "mode": "preview"
           }
         }
@@ -106,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Composite functions.md",
+                "file": "zzz/Calculus 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composite functions.md",
+                "file": "zzz/Calculus 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,19 +198,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 148.5
   },
-  "active": "2d8685522cd3cd8a",
+  "active": "35fda9379aba9399",
   "lastOpenFiles": [
-    "Composite functions.md",
-    "Limits of combined functions.md",
     "zzz/Calculus 1.md",
+    "Composite functions.md",
+    "screenshot.png",
+    "screenshot 1.png.md",
+    "screenshot 1.png",
+    "Limits of combined functions.md",
     "MOC/031 Periodical Goal MOC.md",
     "Limits of combined functions piecewise functions.md",
     "zzz/Kanji.md",
-    "radicals.md",
-    "Onyomi and Kun'yomi.md",
-    "Learn 100 Kanji.md",
-    "Using table to approximate limit values.md"
+    "radicals.md"
   ]
 }
