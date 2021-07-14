@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "4098aca0ba518654",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -84,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC/032 Habits MOC.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,12 +138,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c70b479497d58704",
+  "active": "4098aca0ba518654",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "finish Scientific Computing with Python.md",
     "MOC/032 Habits MOC.md",
     "MOC/000 Index.md",
     "zzz/sources/books/Thinking Fast and Slow.md",
-    "The Halo Effect.md",
-    "conflict-files-obsidian-git.md"
+    "The Halo Effect.md"
   ]
 }

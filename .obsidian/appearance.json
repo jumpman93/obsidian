@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "baseFontSize": 15,
+=======
+  "baseFontSize": 16,
+>>>>>>> a95a4192a47446e40974f6cecc539c7924bc89bb
   "theme": "obsidian",
   "obsidianCss": true,
   "translucency": false,

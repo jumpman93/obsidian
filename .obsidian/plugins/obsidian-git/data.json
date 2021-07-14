@@ -7,6 +7,10 @@
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
+<<<<<<< HEAD
   "listChangedFilesInMessageBody": true,
+=======
+  "listChangedFilesInMessageBody": false,
+>>>>>>> a95a4192a47446e40974f6cecc539c7924bc89bb
   "showStatusBar": true
 }

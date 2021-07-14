@@ -1,9 +1,18 @@
-[[000 Index]] [[Math Moc]]
+[[000 Index]] [[Math MOC]]
 
 
-### Subjects
+# Subjects
+
+## Limits
+[[Graphing and Limits]]
+[[Using table to approximate limit values]]
+[[Formal definition of limits]]
+
+
+
+
 [[Rational Expresions]]
 [[Difference Quotient]]
-[[Graphing and Limits]]
+
 [[When Limits Fail to Exist]]
 [[Limit Laws]]

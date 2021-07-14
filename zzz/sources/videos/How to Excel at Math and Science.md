@@ -7,7 +7,7 @@ cssclass:
 
 - `Title:` [[How to Excel at Math and Science]]
 - `Type:` [[Video]]
-- `Tags:` [[Math Moc]] [[Science MOC]] [[010 Interests MOC]]
+- `Tags:` [[Math MOC]] [[Science MOC]] [[010 Interests MOC]]
 - `URL:` https://www.youtube.com/watch?v=yjdhNyEmYpo
 - `Channel/Host:` [[Zack Star]]
 - `Publish Date:` 

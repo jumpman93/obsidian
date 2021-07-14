@@ -1,5 +1,7 @@
 [[000 Index]]
 
+<<<<<<< HEAD
+=======
 ---
 tags: 
 aliases: 
@@ -17,3 +19,4 @@ cssclass:
 - 7hr - Monday
 - 7.5hr - Tuesday
 - 8hr - Wednesday
+>>>>>>> c773c74b1725dc492c86bbc24dc2e8c76e02bf19

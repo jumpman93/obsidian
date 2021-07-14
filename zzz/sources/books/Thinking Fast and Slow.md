@@ -65,9 +65,14 @@ cssclass:
 - we are predisposed to create intention and causation within things in our life. 
 - a study by [[Fritz Heider]], [[Mary-Ann Simmel]] created a film with a large triangle, small triangle and a circle moving around a shape that looks like a schematic view of a house with an open door. Viewers after watching the short film, had the impression of the large triangle bullying the small triangle and the circle being terrified. The small triangle and circle join forces and defeat the bully. The viewers assigned characters to the inanimate objects and found conflict within moving shapes.
 
+<<<<<<< HEAD
+
+***
+=======
 ***Chapter 7: A Machine for Jumping to conclusions*** 
 - [[The Halo Effect]] we tend to fill judge things not based upon passed knowledge, rather preconceived notions of the thing. (pg.82)
 - the sequence in which we hear information is extremely influential in the way we perceive things.
+>>>>>>> c773c74b1725dc492c86bbc24dc2e8c76e02bf19
 ### Summary of key points:
 
 - 
