@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zzz/Calculus 1.md",
+            "file": "Composite functions.md",
             "mode": "preview"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "zzz/Calculus 1.md",
+                "file": "Composite functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzz/Calculus 1.md",
+                "file": "Composite functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,8 +202,8 @@
   },
   "active": "35fda9379aba9399",
   "lastOpenFiles": [
-    "zzz/Calculus 1.md",
     "Composite functions.md",
+    "zzz/Calculus 1.md",
     "screenshot.png",
     "screenshot 1.png.md",
     "screenshot 1.png",
