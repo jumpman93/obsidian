@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Using table to approximate limit values.md",
+            "file": "zzz/Kanji.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Using table to approximate limit values.md",
+                "file": "zzz/Kanji.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Using table to approximate limit values.md",
+                "file": "zzz/Kanji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,15 +202,15 @@
   },
   "active": "818dbd3d8ab249a9",
   "lastOpenFiles": [
-    "Using table to approximate limit values.md",
-    "Learn 100 Kanji.md",
-    "conflict-files-obsidian-git.md",
     "zzz/Kanji.md",
+    "radicals.md",
+    "Onyomi and Kun'yomi.md",
+    "Learn 100 Kanji.md",
+    "Using table to approximate limit values.md",
+    "conflict-files-obsidian-git.md",
     "zzz/Japanese MOC.md",
     "020 Sources MOC.md",
     "MOC/000 Index.md",
-    "Iterations Loop Idioms.md",
-    "finish Scientific Computing with Python.md",
-    "zzz/Python MOC.md"
+    "Iterations Loop Idioms.md"
   ]
 }

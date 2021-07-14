@@ -14,6 +14,7 @@ cssclass:
 
 
 # Kanji
+[[Onyomi and Kun'yomi]]
 一 - 1 (ichi)
 ニ - 2 (ni)
 三 - 3 (san)
