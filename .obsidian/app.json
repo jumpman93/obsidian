@@ -1,0 +1,20 @@
+{
+  "promptDelete": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "fileSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "showLineNumber": false,
+  "spellcheckDictionary": [
+    "Baumeister",
+    "Situp",
+    "deplenishes",
+    "repo",
+    "Einstellunge",
+    "UoFt",
+    "Uvic",
+    "Asymptotes"
+  ]
+}
