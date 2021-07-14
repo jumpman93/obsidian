@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Composite functions.md",
-            "mode": "preview"
+            "file": "Mech Keeb.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2ffb2de65e5a9521",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Material Moc.md",
+            "mode": "source"
           }
         }
       }
@@ -95,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Composite functions.md",
+                "file": "Mech Keeb.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Composite functions.md",
+                "file": "Mech Keeb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,15 +213,15 @@
   },
   "active": "35fda9379aba9399",
   "lastOpenFiles": [
+    "Keyboard.md",
+    "MOC/010 Interests MOC.md",
+    "Material Moc.md",
     "Composite functions.md",
     "zzz/Calculus 1.md",
     "screenshot.png",
     "screenshot 1.png.md",
     "screenshot 1.png",
     "Limits of combined functions.md",
-    "MOC/031 Periodical Goal MOC.md",
-    "Limits of combined functions piecewise functions.md",
-    "zzz/Kanji.md",
-    "radicals.md"
+    "MOC/031 Periodical Goal MOC.md"
   ]
 }
