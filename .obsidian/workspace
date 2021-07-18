@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e9661d0e93ffd265",
+        "id": "22c66224a3c34681",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sources/Learn Kanji  With Radicals and Mnemoniocs.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sources/Learn Kanji  With Radicals and Mnemoniocs.md",
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -118,7 +118,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.18462328129603017,
+                  "scale": 0.32423332021846357,
                   "close": true
                 }
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sources/Learn Kanji  With Radicals and Mnemoniocs.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,17 +200,17 @@
     "direction": "horizontal",
     "width": 148.5
   },
-  "active": "e9661d0e93ffd265",
+  "active": "22c66224a3c34681",
   "lastOpenFiles": [
-    "sources/Learn Kanji  With Radicals and Mnemoniocs.md",
-    "2021-07-15.md",
     "Untitled.md",
-    "Learn Kanji  With Radicals and Mnemoniocs.md",
     "Learn 100 Kanji.md",
-    "Onyomi and Kun'yomi.md",
-    "zzz/Kanji.md",
-    "MOC/031 Periodical Goal MOC.md",
     "Condo Planning.md",
-    "MOC/011 Projects MOC.md"
+    "Using table to approximate limit values.md",
+    "The Halo Effect.md",
+    "radicals.md",
+    "Onyomi and Kun'yomi.md",
+    "Mech Keeb.md",
+    "Material Moc.md",
+    "finish Scientific Computing with Python.md"
   ]
 }
