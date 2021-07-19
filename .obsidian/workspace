@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
-            "mode": "source"
+            "file": "Master Sleep & Be more alert Huberman Lab Podcast 2.md",
+            "mode": "preview"
           }
         }
       }
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "Master Sleep & Be more alert Huberman Lab Podcast 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Master Sleep & Be more alert Huberman Lab Podcast 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,15 +202,15 @@
   },
   "active": "73dd5e537c1ec11f",
   "lastOpenFiles": [
+    "Master Sleep & Be more alert Huberman Lab Podcast 2.md",
+    "Learn 100 Kanji.md",
+    "cortisol.md",
+    "epinephrine.md",
+    "Maximizing Productivity, Physical & Mental Healrht with Daily Tools Huberman Lab Podcast 28.md",
+    "Master Sleep & Be more alert Huberman Lab Podcast 28.md",
     "Untitled.md",
     "adrenal glands.md",
-    "epinephrine.md",
-    "cortisol.md",
     "melatonin.md",
-    "pineal gland.md",
-    "retinal ganglion cells.md",
-    "superchiasmastic nucleus.md",
-    "circadian rhythm.md",
-    "Learn 100 Kanji.md"
+    "pineal gland.md"
   ]
 }
