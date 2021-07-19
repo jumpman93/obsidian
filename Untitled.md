@@ -26,7 +26,7 @@ cssclass:
 
 ### The morning
 - when you wake up your [[adrenal glands]] release a hormone called [[cortisol]] and [[epinephrine]], signaling the body that it is time to start moving.
-- cellular timers start when you wake up signaling when the [[pineal gland]] will release [[melatonin]], which makes you sleepy.
+- cellular timers start when you wake up signaling the [[pineal gland]] too release [[melatonin]], which makes you sleepy.
 - when light reaches your [[retinal ganglion cells]] in the eyes, an electrical signal is passed to the central clock called the [[superchiasmastic nucleus]] that connects to every cell and organ in the body
 - the neurons that signal to the rest of the body to start the rhythm of waking up respond to a quality of light. Light from the sunrise has a different quality that sunlight over head, timing this initial exposure to light in the morning to pulse [[cortisol]] throughout out your body earlier. 
 - multiple studies indicate that physically going out side from 5-60minutes (depending on the amount of light), will start the processes that govern your circadian rhythm and the hormonal release within your body.
