@@ -34,7 +34,7 @@ cssclass:
 - timing this exposure to light is important 
 
 ### The night
-- physically seeing sunlight during sunset is important for anchoring your [[circadian rhythm]], and helps the negate the negative affects of light after sunset.
+- physically seeing sunlight during sunset is important for anchoring your [[circadian rhythm]], and helps negate the negative affects of light after sunset.
 - minimizing your light exposure past 8pm and especially between 11pm and 4am. A paper published in Cell shows that exposure to light between 11pm and 4am, suppresses the release of [[dopamine]], a [[neuromodulator]] that is required for making us feel good and an endogenous antidepressant. This inhibits learning and creating other detrimental effects. The light to the eyes signals a structure called the [[habenula]], (that sits in the [[thalamus]]) that makes us less happy and more prone to disappointment, leading to forms of depression when wakeful.
 
 ### Waking up earlier
