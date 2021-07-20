@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How to Lose Fat with Science-Based Tools Huberman Lab Podcast #21.md",
+            "file": "Condo Planning.md",
             "mode": "source"
           }
         }
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kanji",
+                "query": "condo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -95,7 +96,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "How to Lose Fat with Science-Based Tools Huberman Lab Podcast #21.md",
+                "file": "Condo Planning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Lose Fat with Science-Based Tools Huberman Lab Podcast #21.md",
+                "file": "Condo Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,6 +203,8 @@
   },
   "active": "ab211bd924c57d6e",
   "lastOpenFiles": [
+    "Condo Planning.md",
+    "MOC/011 Projects MOC.md",
     "Untitled.md",
     "2021-07-20.md",
     "Master Sleep & Be more alert Huberman Lab Podcast 2.md",
@@ -209,8 +212,6 @@
     "cortisol.md",
     "epinephrine.md",
     "Maximizing Productivity, Physical & Mental Healrht with Daily Tools Huberman Lab Podcast 28.md",
-    "Master Sleep & Be more alert Huberman Lab Podcast 28.md",
-    "adrenal glands.md",
-    "melatonin.md"
+    "Master Sleep & Be more alert Huberman Lab Podcast 28.md"
   ]
 }

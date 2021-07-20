@@ -23,4 +23,7 @@ cssclass:
 - [ ] Lamp
 - [ ] Stationary
 - [ ] Power Brick
-- [ ] Peg Board | https://www.ikea.com/ca/en/p/skadis-pegboard-combination-white-s49216697/
+- [ ] Peg Board | https://www.ikea.com/ca/en/p/skadis-pegboard-combination-white-s49216697
+
+### Ideas
+- dark wood with warm lighting 
