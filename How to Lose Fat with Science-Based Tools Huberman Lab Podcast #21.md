@@ -47,3 +47,4 @@ cssclass:
 
 ### Exercise
 - high intensity exercise followed by low intensity exercise is the best way to facilitate fat burn, due to the stored fat burned during exercise and the increase in basal metabolic rate after the exercise.
+- high intensity exercise releases [[epinephrine]] promoting fat oxidation, common with other forms of fat loss. Release of [[epinephrine]] is the trigger and the affector of fat mobilization.
