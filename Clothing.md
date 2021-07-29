@@ -9,3 +9,18 @@ cssclass:
  # [[Clothing]]
 
 ### TLDR;
+- anything I wear
+
+## Hat
+
+## T-Shirt
+
+## Sweater
+
+## Pants
+
+## Shorts
+
+## Accessories
+
+## Jackets
