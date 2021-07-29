@@ -12,7 +12,7 @@ cssclass:
 ### TLDR;[[000 Index]]
 
 ### Organizational Systems
-[[Note Taking]] |
+[[Note Taking]] | [[Material Base MOC]]
 
 ### visual explanation for systems
 [[mermaid MOC]]
