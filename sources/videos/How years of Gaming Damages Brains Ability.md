@@ -1,3 +1,12 @@
+---
+tags: 
+aliases: 
+  - 
+cssclass: 
+---
+`relevant links`
+
+ # [[How years of Gaming Damages Brains Ability]]
 ## [[Executive Dysfunction]]
 - the lack of ability to see abstract goals
   - the looming task of studying seems daunting, but once broken down into managable tasks seems doable 

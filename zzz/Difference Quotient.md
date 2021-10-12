@@ -1,3 +1,4 @@
+[[Calculus 1]]
 ## Difference Quotient
 - the [[average rate of chance (AROC)]] of a function between two intervals.
 - a [[secant]] is straight line in between an interval

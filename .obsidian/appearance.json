@@ -1,4 +1,6 @@
 {
-  "baseFontSize": 16,
-  "cssTheme": "Obsidian Nord"
+  "baseFontSize": 18,
+  "cssTheme": "Red Graphite",
+  "translucency": false,
+  "theme": "moonstone"
 }

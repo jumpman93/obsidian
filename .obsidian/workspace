@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c70b479497d58704",
+        "id": "896792685f634469",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "zzz/Github Moc.md",
-            "mode": "preview"
+            "file": "Chapter 6 - Hearing.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git hub",
+                "query": "econ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,12 +56,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 227.51218795776367
   },
   "right": {
     "id": "f58aac30da432306",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzz/Github Moc.md",
+                "file": "Chapter 6 - Hearing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +105,31 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "8af4a197bdeb4ea8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 6 - Hearing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b551a34689173dff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 6 - Hearing.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b1d91d0783a5b4a2",
@@ -120,24 +142,34 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "f39491c304cb6314",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 224.6000518798828,
     "collapsed": true
   },
-  "active": "c70b479497d58704",
+  "active": "896792685f634469",
   "lastOpenFiles": [
-    "zzz/Github Moc.md",
-    "MOC/010 Interests MOC.md",
-    "MOC/032 Habits MOC.md",
-    "conflict-files-obsidian-git.md",
-    "Condo Planning.md",
-    "finish Scientific Computing with Python.md",
-    "MOC/000 Index.md",
-    "zzz/sources/books/Thinking Fast and Slow.md",
-    "The Halo Effect.md"
+    "Chapter 6 - Hearing.md",
+    "zzz/PSYC 251.md",
+    "zzz/Chapter 5 (T3) - Vision (perception).md",
+    "Untitled.md",
+    "MOC/050 Acadmic MOC.md",
+    "zzz/ECON 104.md",
+    "zzz/ECON 104 - Chapter 8 Unemployment.md",
+    "zzz/ECON 104 Lecture 4- Chapter 7.md",
+    "zzz/ECON 104 Lecture 3 - Chapter 6.md",
+    "MOC/010 Interests MOC.md"
   ]
 }

@@ -4,7 +4,7 @@ aliases:
   - 
 cssclass: 
 ---
-`relevant links`
+`relevant links` [[Calculus 1]] [[MATH 100]] 
 
  # [[Squeeze Theorem]]
 
