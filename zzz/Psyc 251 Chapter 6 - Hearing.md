@@ -1,15 +1,15 @@
 ---
-tags: 
+tags: pyschology biology neuroscience
 aliases: 
   - 
 cssclass: 
 ---
-`relevant links`
-`course`
+`relevant links`[[PSYC 251]] [[050 Acadmic MOC]]
+`course`[[PSYC 251]]
 `professor`
 `lecture date` 2021-10-11 16:27
 
- # [[Chapter 6 - Hearing]]
+ # [[Psyc 251 Chapter 6 - Hearing]]
 
 ### lecture outline / learning goals:
 

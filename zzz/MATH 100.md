@@ -13,5 +13,7 @@
  [[Math 100 3.4 - The Derivative as a Rate of Change]]
  [[Math 100 3.5 Derivatives of Trig Functions]]
  
+ [[Math 100 Midterm 1 Review]]
+ 
 
 ### TLDR;

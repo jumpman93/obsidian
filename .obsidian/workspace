@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "4dd4ebf79ced6217",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d4eec21341a2e4e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Math 100 Midterm 1 Review.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b52fb381eb73811",
+    "type": "split",
+    "children": [
+      {
+        "id": "f239a171b0f5722f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31da0df2a08eff58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "07aa0aa91c37b195",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "psyc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c425366e3f9142c5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6bccbdae0f159fc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "36d79d1ce9e2475d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "997a41cd161edead",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1956f7ac7f7a32a",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "0629f4a7196b92d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math 100 Midterm 1 Review.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "959c4e52c1519599",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math 100 Midterm 1 Review.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "673d7d4edcf3a7a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c21822c44286c7f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math 100 Midterm 1 Review.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2d4eec21341a2e4e",
+  "lastOpenFiles": [
+    "Math 100 Midterm 1 Review.md",
+    "zzz/MATH 100.md",
+    "MOC/050 Acadmic MOC.md",
+    "Psyc 251 Chapter 7  - Action.md",
+    "zzz/PSYC 251.md",
+    "zzz/Chapter 6 - Hearing.md",
+    "Chapter 7  - Action.md",
+    "vestigialty.md",
+    "zzz/2021-2022 Uni.md",
+    "zzz/ECON 104.md"
+  ]
+}

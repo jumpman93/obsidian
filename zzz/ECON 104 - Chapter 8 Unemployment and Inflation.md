@@ -9,7 +9,7 @@ cssclass:
 `professor`
 `lecture date` 2021-10-05 17:13
 
- # [[ECON 104 - Chapter 8 Unemployment]]
+ # [[ECON 104 - Chapter 8 Unemployment and Inflation]]
 
 ### lecture outline / learning goals:
 - How is unemployment measured and how is the unemployment rate calculated?
@@ -28,6 +28,8 @@ cssclass:
 
 ---
 ### active recall study questions:
+
+***Unemployment***
 - what is defined as being part of the [[labour force]]?
 	- 15 years old 
 	- currently unemployed
@@ -39,7 +41,7 @@ cssclass:
 	- the percentage of people in the labor force in relation to total population of eligible adults
 - what is the definition for [[unemployment rate]]
 	- the percent of the total number of people in the labor force who are unemployed
-- what are do unemployment statistics not reflect
+- what do unemployment statistics not reflect
 	- [[discouraged workers]]
 	- [[marginally attached workers]]
 	- [[underemployed workers]]
@@ -60,3 +62,6 @@ cssclass:
 	- the difference of actual unemployment from the natural rate 
 		- firms lay off workers when GDP falls
 		- idle labor and capital implies that economic growth is not being maximized and lowers the ability for the economy to create more jobs
+
+***Inflation***
+

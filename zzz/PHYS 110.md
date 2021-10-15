@@ -21,6 +21,9 @@ tags: #physics
 - [[PHYS 110 - Lecture 2 Vectors]]
 - [[PHYS 110 - Lecture ]]
 
+## Midterm Review
+- [[PHYS 110 - Midterm 1]]
+
 ## relevant context
 - odd lab sections show up schedueld time, even labs section 30min after
 - look at uvic general grading scheme and 110 grading schemeT
