@@ -63,5 +63,11 @@ cssclass:
 		- firms lay off workers when GDP falls
 		- idle labor and capital implies that economic growth is not being maximized and lowers the ability for the economy to create more jobs
 
-***Inflation***
+***Inflation:***
+- how to measure [[real wage]]?
+- what is the [[shoe-leather cost]]?
+- what is [[menu cost]]?
+- what is [[unit of accounting cost]]?
+- how does [[interest rates]] and [[inflation]] relate?
+	- how are lenders and borrowers affected when inflation increases more than expected.
 

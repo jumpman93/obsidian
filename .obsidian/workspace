@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math 100 Midterm 1 Review.md",
-            "mode": "preview"
+            "file": "ECON 104 - Chapter 10 Saving and Investment.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psyc",
+                "query": "econ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math 100 Midterm 1 Review.md",
+                "file": "ECON 104 - Chapter 10 Saving and Investment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math 100 Midterm 1 Review.md",
+                "file": "ECON 104 - Chapter 10 Saving and Investment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math 100 Midterm 1 Review.md"
+                "file": "ECON 104 - Chapter 10 Saving and Investment.md"
               }
             }
           }
@@ -145,15 +145,15 @@
   },
   "active": "2d4eec21341a2e4e",
   "lastOpenFiles": [
-    "Math 100 Midterm 1 Review.md",
-    "zzz/MATH 100.md",
-    "MOC/050 Acadmic MOC.md",
-    "Psyc 251 Chapter 7  - Action.md",
-    "zzz/PSYC 251.md",
-    "zzz/Chapter 6 - Hearing.md",
-    "Chapter 7  - Action.md",
-    "vestigialty.md",
-    "zzz/2021-2022 Uni.md",
-    "zzz/ECON 104.md"
+    "ECON 104 - Chapter 10 Saving and Investment.md",
+    "zzz/ECON 104.md",
+    "net capital inflow.md",
+    "domestive investment spending.md",
+    "zzz/ECON 104 - Chapter 8 Unemployment and Inflation.md",
+    "unit of accounting cost.md",
+    "menu cost.md",
+    "shoe-leather cost.md",
+    "real wage.md",
+    "MOC/050 Acadmic MOC.md"
   ]
 }
